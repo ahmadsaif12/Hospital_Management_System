@@ -72,3 +72,4 @@ document.addEventListener("DOMContentLoaded", () => {
         appointmentForm.reset();
     });
 });
+//added form
